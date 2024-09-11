@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Initialize a string direction which represents all the
-// directions.
+// Initialize a string direction which represents all the directions.
 string direction = "DLRU";
 
 // Arrays to represent change in rows and columns
